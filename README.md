@@ -1,3 +1,6 @@
+<a href="https://ko-fi.com/oleksandr">Buy Me a Coffee</a> :muscle:
+
+--- 
 <a href="https://twitter.com/tarasiuk_o">
   <img align="left" alt="Oleksandr's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
