@@ -13,4 +13,4 @@
 
 ---
 
-<a href="https://ko-fi.com/oleksandr">Buy Me a Coffee</a> :muscle:
+:point_right: <a href="https://ko-fi.com/oleksandr">Buy Me a Coffee</a> :coffee:
